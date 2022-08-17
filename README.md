@@ -16,6 +16,12 @@ PROs:
 
 > Spotify Integeration (via 5zig)
 
+> Friends On SinglePlayer (No Need To Be On Same Network)
+
+> Screenshot Manager
+
+> Friend Chat
+
 CONs:
 > No Mod Menu (Most of the things are VIA commands or Mod Options)
 
