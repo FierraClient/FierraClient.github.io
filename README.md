@@ -22,6 +22,8 @@ PROs:
 
 > Friend Chat
 
+> Cool Cosmetics From https://essential.gg
+
 CONs:
 > No Mod Menu (Most of the things are VIA commands or Mod Options)
 
